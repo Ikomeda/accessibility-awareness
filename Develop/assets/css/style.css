@@ -41,7 +41,7 @@ h1 {
 .header-list-item {
     display: inline-block;
     margin-left: 25px;
-    list-style-type: none;
+    /* list-style-type: none; */
 }
 
 a {
